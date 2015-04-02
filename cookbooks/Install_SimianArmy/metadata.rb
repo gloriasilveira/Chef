@@ -1,5 +1,5 @@
 name             'Install_SimianArmy'
-maintainer       'SELF'
+maintainer       'GLORIA SILVEIRA'
 maintainer_email 'gloriasilveira@users.noreply.github.com'
 license          'All rights reserved'
 description      'Installs/Configures Install_SimianArmy'
