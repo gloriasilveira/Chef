@@ -7,4 +7,4 @@
 # All rights reserved - Do Not Redistribute
 #
 #Update all software on the box
-execute "yum update"
+execute "yum -y update"
