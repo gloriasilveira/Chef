@@ -1,45 +1,14 @@
 Install_SimianArmy Cookbook
 ===========================
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+This is a cookbook to install the dependencies needed in order to build and run Netflix's Simian Army on a RHEL 7.1 box.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
-
-e.g.
-#### packages
-- `toaster` - Install_SimianArmy needs toaster to brown your bagel.
-
-Attributes
-----------
-TODO: List your cookbook attributes here.
-
-e.g.
-#### Install_SimianArmy::default
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['Install_SimianArmy']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
-  </tr>
-</table>
+RHEL 7.1
 
 Usage
 -----
 #### Install_SimianArmy::default
-TODO: Write usage instructions for each cookbook.
-
-e.g.
 Just include `Install_SimianArmy` in your node's `run_list`:
 
 ```json
@@ -51,18 +20,7 @@ Just include `Install_SimianArmy` in your node's `run_list`:
 }
 ```
 
-Contributing
-------------
-TODO: (optional) If this is a public cookbook, detail the process for contributing. If this is a private cookbook, remove this section.
-
-e.g.
-1. Fork the repository on Github
-2. Create a named feature branch (like `add_component_x`)
-3. Write your change
-4. Write tests for your change (if applicable)
-5. Run the tests, ensuring they all pass
-6. Submit a Pull Request using Github
-
-License and Authors
+Copyright
 -------------------
-Authors: TODO: List authors
+Copyright &copy; 2015 Gloria Silveira
+
